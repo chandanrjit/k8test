@@ -1,6 +1,6 @@
 # k8
-Install Kubeclt
-https://kubernetes.io/docs/tasks/tools/
+install vs code https://code.visualstudio.com/download
+Install Kubeclt https://kubernetes.io/docs/tasks/tools/
 
 kubectl version --client
 kubectl cluster-info
